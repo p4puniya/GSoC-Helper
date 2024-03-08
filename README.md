@@ -20,6 +20,7 @@ Creating a good GSoC proposal is essential for your GSoC Application. A general 
 4. Include the weekly time-line for your delieverables that will act like a roadmap for you during your GSoC period.
 5. Make sure to include a summary about yourself and your past contributions.( You can also mention contributions to other organisations, to help the people get an idea about your expertise.)
 Refer [this repo](https://github.com/Google-Summer-of-Code-Archive/gsoc-proposals-archive) for previous GSoC proposals.
+
 Tips:
 - Some orgs have a set format for their org, make sure to connect with a mentor before you prepare your own proposal.
 - Get your proposal crosschecked by an org mentor before you do a final submission.
